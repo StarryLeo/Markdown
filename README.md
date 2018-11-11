@@ -29,7 +29,7 @@ Markdown基本语法
 
 > void main()  
 > {  
->     printf("Hello, Markdown.");  
+>      printf("Hello, Markdown.");  
 > }  
 
 列表
