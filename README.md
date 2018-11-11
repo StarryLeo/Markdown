@@ -13,7 +13,8 @@ Markdown基本语法
 区块引用
 
 > 区块引用
->> 套嵌引用
+>> 套嵌引用  
+> 区块引用
 
 > ## 这是一个标题。
 > 
@@ -26,10 +27,10 @@ Markdown基本语法
 
 代码区块
 
-> void main()
-> {
->     printf("Hello, Markdown.");
-> }
+> void main()  
+> {  
+>     printf("Hello, Markdown.");  
+> }  
 
 列表
 
@@ -65,15 +66,14 @@ ___
 
 自动链接
 
-<http://example.com/>
-
+<http://example.com/>  
 <address@example.com>
 
 强调
 
-*斜体*
-**粗体**
-***加粗斜体***
+*斜体*  
+**粗体**  
+***加粗斜体***  
 ~~删除线~~
 
 反引号"`"
