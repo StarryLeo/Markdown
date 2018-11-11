@@ -14,7 +14,6 @@ Markdown基本语法
 
 > 区块引用
 >> 套嵌引用
-> 区块引用
 
 > ## 这是一个标题。
 > 
@@ -51,11 +50,14 @@ ___
 链接
 
 行内式
+
 欢迎访问[喵喵的灿烂星空](https://starrycat.me "一个窝")
 
 参考式
+
 谷歌搜索：[Google][00]
 欢迎访问我的博客：[喵喵的灿烂星空]，我的GitHub主页：[StarryLeo's GitHub]。
+
 [00]: https://www.google.com
 [喵喵的灿烂星空]: https://starrycat.me "一个窝"
 [StarryLeo's GitHub]: https://github.com/StarryLeo
