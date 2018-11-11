@@ -13,8 +13,8 @@ Markdown基本语法
 区块引用
 
 > 区块引用
->> 套嵌引用  
-> 区块引用
+>> 套嵌引用
+区块引用
 
 > ## 这是一个标题。
 > 
@@ -27,10 +27,10 @@ Markdown基本语法
 
 代码区块
 
-> void main()  
-> {  
->      printf("Hello, Markdown.");  
-> }  
+    void main()
+    {
+        printf("Hello, Markdown.");
+    }
 
 列表
 
