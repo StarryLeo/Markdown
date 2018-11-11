@@ -1,7 +1,7 @@
 # Markdown
 Markdown基本语法
 
-#标题
+# 标题
 
 # 一级标题
 ## 二级标题
@@ -10,9 +10,9 @@ Markdown基本语法
 ##### 五级标题
 ###### 六级标题
 
-#段落
+# 段落
 
-#区块引用
+# 区块引用
 
 > 区块引用
 > 
@@ -29,14 +29,14 @@ Markdown基本语法
 > 
 >     return shell_exec("echo $input | $markdown_script");
 
-#代码区块
+# 代码区块
 
     void main()
     {
         printf("Hello, Markdown.");
     }
 
-#列表
+# 列表
 
 * Red
 * Green
@@ -46,19 +46,19 @@ Markdown基本语法
 2. Green
 3. Blue
 
-#分割线
+# 分割线
 
 ***
 ---
 ___
 
-#链接
+# 链接
 
-##行内式
+## 行内式
 
 欢迎访问[喵喵的灿烂星空](https://starrycat.me "一个窝")
 
-##参考式
+## 参考式
 
 谷歌搜索：[Google][00]
 
@@ -68,21 +68,21 @@ ___
 [喵喵的灿烂星空]: https://starrycat.me "一个窝"
 [StarryLeo's GitHub]: https://github.com/StarryLeo
 
-##自动链接
+## 自动链接
 
 <http://example.com/>  
 <address@example.com>
 
-##图片
+## 图片
 
-#强调
+# 强调
 
 *斜体*  
 **粗体**  
 ***加粗斜体***  
 ~~删除线~~
 
-#反引号"`"
+# 反引号"`"
 
 Use the `printf()` function.
 ``` c
