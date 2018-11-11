@@ -26,10 +26,10 @@ Markdown基本语法
 
 代码区块
 
-void main()
-{
-    printf("Hello, Markdown.");
-}
+> void main()
+> {
+>     printf("Hello, Markdown.");
+> }
 
 列表
 
@@ -56,6 +56,7 @@ ___
 参考式
 
 谷歌搜索：[Google][00]
+
 欢迎访问我的博客：[喵喵的灿烂星空]，我的GitHub主页：[StarryLeo's GitHub]。
 
 [00]: https://www.google.com
@@ -65,6 +66,7 @@ ___
 自动链接
 
 <http://example.com/>
+
 <address@example.com>
 
 强调
